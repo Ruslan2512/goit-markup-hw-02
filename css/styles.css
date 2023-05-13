@@ -15,23 +15,7 @@ body {
     top: 0px;
 }
 
-.nav-top {
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 24px;
-    text-decoration: none;
-    font-family: 'Raleway';
 
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    color: #000000;
-    /* identical to box height */
-    letter-spacing: 0.03em;
-}
 
 .studio {
     position: absolute;
